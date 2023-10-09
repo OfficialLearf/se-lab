@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modositas A
+=======
+modositas A
+>>>>>>> branch-B
